@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "name": "Monkey Monster",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "price": 397,
+    "summary": "Breathing hike through the Canadian Bnaff National Park",
+    "description": "Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw",
+    "imageCover": "nft_1.png",
+    "images": ["nft-image-1.png", "nft-image-2.png", "nft-image-3.png"],
+    "startDates": [
+      "2023-06-19, 10:00",
+      "2023-07-20, 10:00",
+      "2023-08-18, 10:00"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Monkey Monster",
+    "duration": 2,
+    "maxGroupSize": 25,
+    "difficulty": "hard",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "price": 397,
+    "summary": "Breathing hike through the Canadian Bnaff National Park",
+    "description": "Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw, Lorem ipsum dior hdhs stoeim dwtak ndd jsss scnaa hd gtonda flasj dex fse queera ncdw",
+    "imageCover": "nft_1.png",
+    "images": ["nft-image-1.png", "nft-image-2.png", "nft-image-3.png"],
+    "startDates": [
+      "2023-06-19, 10:00",
+      "2023-07-20, 10:00",
+      "2023-08-18, 10:00"
+    ]
+  }
+]
